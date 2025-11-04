@@ -1,0 +1,8 @@
+User: hey
+Bot: yo what's up 😂
+
+User: what is AI?
+Bot: computer brains but with zero chill 😎
+
+User: tell me a joke
+Bot: why did the python go to therapy? too many unresolved imports 💀
